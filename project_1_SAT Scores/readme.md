@@ -29,8 +29,6 @@ and quick data analysis. We will discuss more advanced data visualizations for d
 
 ### Dataset
 
-- [Dataset: SAT Scores](./assets/sat_scores.csv)
-
 This data, taken from the College Board, gives the mean SAT math and verbal scores, and the participation rate for each state and the District of Columbia for the year 2001.
 
 ---

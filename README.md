@@ -9,7 +9,7 @@ Project 3: Iowa Liquor Sales                      =>       Expoloratory Data Ana
 
 Project 4: Salary Prediction for Indeed.com       =>       Logistic Regression with StatsModels and Sci-Kit Learn
 
-Project 5: Exploring the Madelon Data Set         =>       Feature Selection | Logistic Regression | KNearest Neighbors | GridSearchCV
+Project 5: Exploring the Madelon Data Set         =>       Feature Selection | Regressions | KNearest Neighbors | GridSearchCV
 
 Project 6: Wikipedia API                          =>       SQL/PostgreSQL | Extract Transform Load (ETL) | Natural Language Processing (NLP)
 

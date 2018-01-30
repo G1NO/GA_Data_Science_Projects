@@ -1,5 +1,5 @@
 # GA_Data_Science_Projects
-One week agile sprint comprehensive data science projects that I completed while at General Assembly's Data Science Immersive Program in Santa Monica, CA. 
+One week agile sprint comprehensive data science projects that I completed while at General Assembly's Data Science Immersive Program in Santa Monica, CA. Some code authored by Alex Cheng.
 
 Project 1: SAT Scores                             =>       **Exploratory Data Analysis | Data Visualization (Tableau)**
 
